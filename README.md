@@ -16,16 +16,16 @@ seeking a versatile RP2040 development platform.
 ## Rower Qube 20251-A0 Board 
 
 ## 3D-View
-<img width="420" height="279" alt="Plasma" src="https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/B-Security.png" />
+<img width="300" height="600" alt="RQ" src="https://github.com/paddugns/rower_qube_20251-a0/blob/31c544d05a98fc29d6681e82c9cbef39bdb92b2a/RQF%2020251/Soft%20copy/3DF.png" />
 
 ## Schematic Diagram
-<a href="https://github.com/paddugns/smart_security_iot/blob/a8c2233947145202d756bddc4ffa15fefe005590/V-Security.mp4"> Smart Security System </a><br>
-<video width="279" height="420" alt="Solar" src="https://github.com/user-attachments/assets/9ae77fe4-786c-46d8-8815-1b4af55ddf3d" />
+<img width="800" height="800" alt="RQ" src="https://github.com/paddugns/rower_qube_20251-a0/blob/31c544d05a98fc29d6681e82c9cbef39bdb92b2a/RQF%2020251/Soft%20copy/schematic.PNG" />
 
 ## PCB Layout
+<img width="300" height="600" alt="RQ" src="https://github.com/paddugns/rower_qube_20251-a0/blob/31c544d05a98fc29d6681e82c9cbef39bdb92b2a/RQF%2020251/Soft%20copy/Pcb%20editor.PNG" />
 
 ## Gerber Images
 
-## Report
-#### You can access the report from the below link attached
-[Report.pdf]()<br>
+## Data Sheet
+#### You can access the data sheet from the below link attached
+[DataSheet.pdf]()<br>
