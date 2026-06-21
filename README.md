@@ -65,7 +65,8 @@ paste layers, board outline, and drill files (Excellon format). Each layer conta
 precise information regarding track routing, pad locations, vias, component 
 markings, and mechanical dimensions. This ensures that the fabricated board 
 accurately matches the intended design specifications.
-#### You can access the gerber images from the below zip file
+
+You can access the gerber images from the given zip file
 [Gerber.zip](https://github.com/paddugns/rower_qube_20251-a0/blob/b17d841150b960b3ce6026f5780e1fa8d55f9cff/RQF%2020251/Soft%20copy/RQ-Datasheet.pdf)<br>
 
 ## Data Sheet
