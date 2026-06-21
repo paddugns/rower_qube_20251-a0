@@ -14,6 +14,7 @@ The compact layout and straightforward programming method make the ROWER QUBE
 seeking a versatile RP2040 development platform. 
 
 ## Rower Qube 20251-A0 Board 
+<img width="600" height="300" alt="RQ" src="https://github.com/paddugns/rower_qube_20251-a0/blob/78d7f7c24e16816f21e871c546f8519874f928b3/RQF%2020251/Soft%20copy/p-photo/f.png" />
 
 ## 3D-View
 <img width="300" height="600" alt="RQ" src="https://github.com/paddugns/rower_qube_20251-a0/blob/31c544d05a98fc29d6681e82c9cbef39bdb92b2a/RQF%2020251/Soft%20copy/3DF.png" />
